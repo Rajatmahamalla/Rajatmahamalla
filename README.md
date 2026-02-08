@@ -1,102 +1,94 @@
-<h1 align="center">Rajat Mahamalla</h1>
-<h3 align="center">Full Stack Software Developer | React • Java • Spring Boot • Automation</h3>
+<h1 align="center">Hi 👋, I'm Rajat Mahamalla</h1>
 
 <p align="center">
-Focused on building scalable web applications, automation tools, and real-world software solutions.
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=26&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;React+%7C+SpringBoot+%7C+Java+Developer;Automation+%26+AI+Integration+Enthusiast;Building+Real+World+Tech+Solutions+🚀" />
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
-Full Stack Software Developer with hands-on experience in building responsive web applications, scalable backend systems, and automation-driven platforms.  
-Experienced in real-world project development, AI integrations, and modern UI/UX practices.  
-Strong focus on clean code, performance optimization, and delivering production-ready solutions.
+## 🚀 About Me
+💻 Full Stack Developer passionate about building **scalable web apps & software solutions**  
+🛠️ Strong experience in **React, Java, Spring Boot & Automation**  
+🤖 Interested in **AI Integration & Emerging Tech**  
+🎯 Focused on building **real-world impactful projects**  
+⚡ Always learning & improving through hands-on development
 
 ---
 
-## 🧠 Core Skills
+## 🧑‍💻 Tech Stack
 
-**Frontend Development**
-- React.js
-- JavaScript
-- HTML5 & CSS3
-- Responsive UI Design
+### 🚀 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 
-**Backend Development**
-- Java
-- Spring Boot
-- REST API Development
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
+![REST API](https://img.shields.io/badge/API-purple?style=for-the-badge)
 
-**Database & Tools**
-- MySQL
-- Firebase
-- Git & GitHub
-
-**Other Expertise**
-- Automation Development
-- AI Integration
-- AR Integration
-- Hosting & Deployment
+### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-darkblue?style=for-the-badge&logo=github)
 
 ---
 
-## 🏢 Professional Experience
-
-### 🔧 IoT Intern — Solar Industries Ind. Ltd.
+## 🏢 Internship Experience
+### 🔧 Solar Industries Ind. Ltd. — IoT Internship
 - Worked on real-time IoT & software systems
-- Contributed to system integration and development workflows
-- Gained hands-on industry exposure
-- Collaborated with technical teams on live projects
+- Industrial workflow & system integration
+- Team-based development experience
+- Real-world data handling
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Featured Projects
 
-### 🛍️ KarigariHub — Online Marketplace for Artisans
-- Full-stack platform for local artisans
-- AI Chatbot integration
-- AR-based product preview system
-- Firebase database integration
+### 🛍️ KarigariHub — Online Marketplace
+- AI Chatbot Integration
+- AR Product Preview
+- Full-stack platform for artisans
 
-**Tech Stack:** React.js • Firebase • AI • AR
+**Tech:** React • Firebase • AI • AR
 
 ---
 
 ### 🤖 AI-Powered SEO Optimization Agent
-- AI-based SEO analysis platform
-- Automated recommendations for startups & SMEs
-- Scalable architecture for digital growth
+- Automated SEO Analysis
+- Smart Recommendations
+- Scalable System for Startups
 
-**Tech Stack:** React.js • Node.js • AI APIs
-
----
-
-## 📜 Certifications
-- Software Development Certifications
-- Programming & Emerging Technology Courses
-- Practical Technical Skill Programs
+**Tech:** React • Node.js • AI APIs
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajatmahamalla&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajatmahamalla&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatmahamalla" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajatmahamalla&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Professional Links
+## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/rajat-mahamalla/
 - 📧 Email: rajatmahamalla@gmail.com
 - 🌍 Portfolio: https://portfolio3d-32.preview.emergentagent.com/
 
 ---
 
-## 🎯 Career Objective
-Seeking opportunities as a Software Developer / Full Stack Developer where I can contribute to real-world products, scalable systems, and innovative tech solutions.
+## ⚡ Developer Motto
+> Build Smart 🚀 | Code Clean 💻 | Learn Daily 🧠
 
 ---
+
+<p align="center">
+🔥 Always Building | Always Improving | Always Innovating
+</p>
